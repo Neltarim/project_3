@@ -47,7 +47,7 @@ class Game():
         self.Ether.set_position(self.Level.find('E'))
 
     def init_sprite(self):
-        """Load the source image for objects from ./ressource"""
+        """Load the source image for objects from ./ressources"""
 
         self.Mac.init_sprite(MACGYVER)
         self.Guard.init_sprite(GUARD)

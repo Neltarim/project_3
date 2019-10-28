@@ -8,16 +8,16 @@ WIN_TITLE = "Get out of here !"
 TICKRATE = 30
 
 SPRITE_SIZE = 30
-MAP = "ressource/level.txt"
-WALL = "ressource/wall.png"
-BACKGROUND_IMG = "ressource/background.jpg"
-GAME_WON = "ressource/GAME_WON.jpg"
-GAME_LOST = "ressource/GAME_LOST.jpg"
+MAP = "ressources/level.txt"
+WALL = "ressources/wall.png"
+BACKGROUND_IMG = "ressources/background.jpg"
+GAME_WON = "ressources/GAME_WON.jpg"
+GAME_LOST = "ressources/GAME_LOST.jpg"
 
 SPAWN = 12 #possibles spawns on current map
-NEEDLE = "ressource/needle.png"
-TUBE = "ressource/tube-test.png"
-ETHER = "ressource/ether.png"
+NEEDLE = "ressources/needle.png"
+TUBE = "ressources/tube-test.png"
+ETHER = "ressources/ether.png"
 
-MACGYVER = "ressource/MacGyver.png"
-GUARD = "ressource/guard.png"
+MACGYVER = "ressources/MacGyver.png"
+GUARD = "ressources/guard.png"
