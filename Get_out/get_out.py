@@ -26,7 +26,7 @@ class Game():
         ############# Characters init ###################
         self.Mac = Hero() #init macgyver
         self.Guard = Character() #init the guard
-
+    
 
     def init_pos(self):
         """Set the original position for all objects in map"""

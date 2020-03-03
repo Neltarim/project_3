@@ -120,3 +120,8 @@ class Hero(Character):
             return ('G')
 
         #I don't know how to make a cool switch like in C++ :'(
+        
+        
+    if __name__ == "__main__":
+        print("t'es au'un gros con")
+        exit()
